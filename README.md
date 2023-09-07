@@ -1,6 +1,6 @@
 [![MasterHead](https://www.webential.com/images/front-end-development-banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rana Usama</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A Passionate React Native Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rana-usama&label=Profile%20views&color=0e75b6&style=flat" alt="rana-usama" /> </p>
