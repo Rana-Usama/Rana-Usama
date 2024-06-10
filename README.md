@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/gradient-network-connection-background_23-2148872043.jpg?t=st=1717521513~exp=1717525113~hmac=bc8ae6d2570f327c34ab2f43de83d611ee5dc5f29d4a26641870a4c4dcfcce38&w=1060)](https://rishavchanda.io)
+[![MasterHead]()](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rana Usama</h1>
 <h3 align="center">A Passionate React Native Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
