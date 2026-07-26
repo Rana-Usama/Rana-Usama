@@ -10,7 +10,6 @@
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Website](https://img.shields.io/badge/devappics.com-B700FF?style=for-the-badge&logo=googlechrome&logoColor=white)][website]
 
 <br/>
 
