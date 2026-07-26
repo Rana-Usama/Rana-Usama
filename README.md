@@ -15,4 +15,3 @@
 <br/>
 
 [linkedin]: https://linkedin.com/in/usamadevappics
-[website]: [https://devappics.com](https://devappics.com/book-a-call/)
