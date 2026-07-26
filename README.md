@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rana Usama
 
-### Founder @ Devappics — I help founders ship their MVP in 6–8 weeks
+### Founder @ Devappics - I help founders ship their MVP in 6–8 weeks
 
 - 🚀 I run **Devappics**, an AI-native product studio that ships founder MVPs in 6–8 weeks
 - 🏢 Trusted by a **former Microsoft Regional VP of Sales & ex-Microsoft engineers**
@@ -9,8 +9,8 @@
 - 🌐 Learn more → **[devappics.com](https://devappics.com)**
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Website" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" />][website]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Website](https://img.shields.io/badge/devappics.com-B700FF?style=for-the-badge&logo=googlechrome&logoColor=white)][website]
 
 <br/>
 
